@@ -1,4 +1,4 @@
-# create-any-project
+# YOUR PROJECT NAME
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/create-any-project.svg)](https://npmjs.org/package/create-any-project)
@@ -17,13 +17,12 @@
 
 ```sh-session
 $ npm install -g create-any-project
-$ create-any-project COMMAND
+$ YOUR PROJECT RUN SCRIPT COMMAND
 running command...
-$ create-any-project (-v|--version|version)
-create-any-project/0.0.0 linux-ia32 node-v12.16.3
-$ create-any-project --help [COMMAND]
+$ YOUR PROJECT RUN SCRIPT (-v|--version|version) YOUR PROJECT RUN SCRIPT/0.0.0 linux-ia32 node-v12.16.3
+$ YOUR PROJECT RUN SCRIPT --help [COMMAND]
 USAGE
-  $ create-any-project COMMAND
+  $ YOUR PROJECT RUN SCRIPT COMMAND
 ...
 ```
 
